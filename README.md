@@ -1,5 +1,5 @@
-# employee management system
-Employee Management System using CodeIgniter
+# ci attendance system
+Employee Attendance System using CodeIgniter
 
 Configuration:
 1. Download or clone this project.
