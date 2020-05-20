@@ -7,7 +7,7 @@ Configuration:
 3. Access setup controller using base_url/setup and click the buttons in order.
 
 Current functional feature
-1. Authentication
+1. Authentication (Default user created from setup module: `superadmin` with pass `110891`)
 2. Report and view attendance
 3. View, add, and delete employee
 4. Employee view and update profile
